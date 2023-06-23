@@ -4,7 +4,7 @@ Informationssicherheit ist nicht nur ein Job.
 Skills, Erfahrung, "thinking outside the box", Neugierde und Enthusiasmus gepaart mit Professionalität in einem exzellenten Team sind der Schlüssel zu überdurchschnittlicher Qualität.
 
 Seit 1996 steht das Team der it.sec GmbH für Informationssicherheit, Datenschutz & Compliance.
-Neben dem Stammsitz in Ulm gibt es weitere Standorte in Berlin und Wien.
+Neben dem Stammsitz in Ulm gibt es einen weiteren Standort in Wien.
 Unsere MitarbeiterInnen beraten Unternehmen sowie staatliche und nichtstaatliche Institutionen in mehr als 30 Ländern weltweit.
 Wir helfen bei der Aufklärung von IT-bezogenen Sicherheitsvorfällen und führen Penetrationstests,
 Sicherheitsaudits und Schulungen im Bereich IT-Security und Datenschutz durch.
